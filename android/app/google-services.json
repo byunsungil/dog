@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141997769768",
+    "project_id": "capdog-279c5",
+    "storage_bucket": "capdog-279c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141997769768:android:db8d5f16015c0e2fd7e11d",
+        "android_client_info": {
+          "package_name": "com.example.capdog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141997769768-eql8lf41iuufkcc5e61jmuto56eu6abl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASvwPj26qisd-qTugly7HCJJf3p8dauaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141997769768-eql8lf41iuufkcc5e61jmuto56eu6abl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
